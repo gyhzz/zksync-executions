@@ -7,7 +7,7 @@ This application is built to automatically execute interactions with smart contr
 
 ### Troubleshooting
 
-pip install zksync2 is failing
+Unable to Install zksync2 Using <pip install>
 - If you face this error when trying to pip install zksync2: 
 ERROR: Could not build wheels for lru-dict, which is required to install pyproject.toml-based projects
 - You will likely also see this above: error: Microsoft Visual C++ 14.0 is required

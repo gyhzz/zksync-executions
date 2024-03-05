@@ -1,3 +1,3 @@
 # zksync-executions
 
-This application is built to execute transactions on the zkSync Ethereum Layer-2 network automatically
+This application is built to automatically execute transactions with smart contracts on the zkSync Ethereum Layer-2 network.

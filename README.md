@@ -2,12 +2,13 @@
 
 This application is built to automatically execute interactions with smart contracts on the zkSync Ethereum Layer-2 network.
 
-Required Python Packages:
-pip install zksync2
-(Below packages should be already included in the zksync2 package install)
-pip install web3
-pip install eth_account
-pip install eth_typing
+Required Python Packages:\
+pip install zksync2\
+\
+(Below packages should be already included in the zksync2 package install)\
+pip install web3\
+pip install eth_account\
+pip install eth_typing\
 
 ### Note:
 

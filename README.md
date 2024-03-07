@@ -8,7 +8,7 @@ pip install zksync2\
 (Below packages should be already included in the zksync2 package install)\
 pip install web3\
 pip install eth_account\
-pip install eth_typing\
+pip install eth_typing
 
 ### Note:
 
